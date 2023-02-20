@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:wght@400;500;700&display=swap");
+
+/* Google Fonts - Easy Pickup
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+*/
+
+header h1 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.money-calculation-container {
+    font-family: 'Roboto', sans-serif; 
+}
